@@ -270,7 +270,7 @@ CRUD Ops        →   Normalization       →  Stored Procs     →  Real Projec
 
 [![GitHub stars](https://img.shields.io/github/stars/vicky-tec/SQL-Mastery-Hub?style=social)](https://github.com/vicky-tec/SQL-Mastery-Hub)
 
-**Made with ❤️ by [Vicky Raj](https://github.com/vicky-tec)**
+**Made with ❤️ by [Vicky Raj](https://vickyrajiit.vercel.app/)**
 
 *"Data is the new oil. SQL is the pump."* 🛢️
 
