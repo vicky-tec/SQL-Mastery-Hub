@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="logos/logo_sql.svg" alt="SQL Mastery Hub" />
+<img src="logo_sql.svg" alt="SQL Mastery Hub" />
 
 <br/>
 
