@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=🗄️+SQL+Mastery+Hub;From+Zero+to+SQL+Hero!;Beginner+→+Intermediate+→+Advanced" alt="SQL Mastery Hub" />
+<img src="https://w7.pngwing.com/pngs/167/148/png-transparent-microsoft-azure-sql-database-microsoft-sql-server-database-blue-text-logo.png" alt="SQL Mastery Hub" />
 
 <br/>
 
