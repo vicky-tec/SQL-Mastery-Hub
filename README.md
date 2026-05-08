@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://w7.pngwing.com/pngs/167/148/png-transparent-microsoft-azure-sql-database-microsoft-sql-server-database-blue-text-logo.png" alt="SQL Mastery Hub" />
+<img src="https://i.pinimg.com/originals/27/45/30/2745305c9702bceee2525cc24e1d00c2.png" alt="SQL Mastery Hub" />
 
 <br/>
 
